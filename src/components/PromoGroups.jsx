@@ -29,7 +29,7 @@ export default function PromoGroups() {
                 href={wa}
                 target="_blank"
                 rel="noreferrer"
-                className="mt-6 inline-flex w-full items-center justify-center rounded-xl bg-[var(--color-accent)] px-5 py-3 text-sm font-semibold text-white hover:opacity-90 md:w-auto"
+                className="mt-6 inline-flex w-full items-center justify-center rounded-xl bg-[var(--color-accent)] px-5 py-3 text-sm font-semibold text-black hover:opacity-90 md:w-auto"
               >
                 Reservar para grupo por WhatsApp
               </a>

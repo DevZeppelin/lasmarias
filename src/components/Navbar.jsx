@@ -44,7 +44,7 @@ export default function Navbar() {
           href={wa}
           target="_blank"
           rel="noreferrer"
-          className="rounded-xl bg-[var(--color-accent)] px-4 py-2 text-sm font-semibold text-white hover:opacity-90 active:opacity-80"
+          className="rounded-xl bg-[var(--color-accent)] px-4 py-2 text-sm font-semibold text-black hover:opacity-90 active:opacity-80"
         >
           Reservar
         </a>

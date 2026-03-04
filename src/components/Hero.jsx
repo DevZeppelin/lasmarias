@@ -41,7 +41,7 @@ export default function Hero() {
                 href={wa}
                 target="_blank"
                 rel="noreferrer"
-                className="rounded-xl bg-[var(--color-accent)] px-5 py-3 text-center text-sm font-semibold text-white hover:opacity-90"
+                className="rounded-xl bg-[var(--color-accent)] px-5 py-3 text-center text-sm font-semibold text-black hover:opacity-90"
               >
                 Reservar por WhatsApp
               </a>
@@ -63,7 +63,7 @@ export default function Hero() {
 
           <div className="card p-3">
             <div className="relative aspect-[4/5] h-full overflow-hidden rounded-[20px] border border-white/10 bg-white/5">
-              <Image src="/hero.jpg" alt="las marias carrodilla" fill="cover" />
+              <Image src="/hero.png" alt="las marias carrodilla" fill="cover" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-black/40" />
               <div className="absolute bottom-4 left-4 right-4">
                 <p className="text-sm font-semibold">

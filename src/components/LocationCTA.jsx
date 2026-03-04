@@ -35,7 +35,7 @@ export default function LocationCTA() {
                 href={wa}
                 target="_blank"
                 rel="noreferrer"
-                className="rounded-xl bg-[var(--color-accent)] px-5 py-3 text-center text-sm font-semibold text-white hover:opacity-90"
+                className="rounded-xl bg-[var(--color-accent)] px-5 py-3 text-center text-sm font-semibold text-black hover:opacity-90"
               >
                 Reservar por WhatsApp
               </a>
