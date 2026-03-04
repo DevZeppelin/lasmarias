@@ -65,14 +65,7 @@ export default function Hero() {
             <div className="relative aspect-[4/5] h-full overflow-hidden rounded-[20px] border border-white/10 bg-white/5">
               <Image src="/hero.png" alt="las marias carrodilla" fill="cover" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-black/40" />
-              <div className="absolute bottom-4 left-4 right-4">
-                <p className="text-sm font-semibold">
-                  Nuevo: Rosato (aperitivo rosado) para brindar 🍹
-                </p>
-                <p className="mt-1 text-xs muted">
-                  Ideal para arrancar la noche antes de la parrilla.
-                </p>
-              </div>
+
               <div className="absolute top-4 left-4">
                 <Badge>🔥 “Vení con hambre”</Badge>
               </div>
